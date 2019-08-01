@@ -1,0 +1,154 @@
+[
+  {
+    "name": "appdirs",
+    "version": "1.4.3"
+  },
+  {
+    "name": "appnope",
+    "version": "0.1.0"
+  },
+  {
+    "name": "attrs",
+    "version": "18.2.0"
+  },
+  {
+    "name": "backcall",
+    "version": "0.1.0"
+  },
+  {
+    "name": "black",
+    "version": "18.9b0"
+  },
+  {
+    "name": "certifi",
+    "version": "2018.10.15"
+  },
+  {
+    "name": "Click",
+    "version": "7.0"
+  },
+  {
+    "name": "decorator",
+    "version": "4.3.0"
+  },
+  {
+    "name": "flake8",
+    "version": "3.5.0"
+  },
+  {
+    "name": "greenlet",
+    "version": "0.4.15"
+  },
+  {
+    "name": "ipython",
+    "version": "7.1.1"
+  },
+  {
+    "name": "ipython-genutils",
+    "version": "0.2.0"
+  },
+  {
+    "name": "jedi",
+    "version": "0.13.1"
+  },
+  {
+    "name": "mccabe",
+    "version": "0.6.1"
+  },
+  {
+    "name": "msgpack",
+    "version": "0.5.6"
+  },
+  {
+    "name": "mypy",
+    "version": "0.630"
+  },
+  {
+    "name": "mypy-extensions",
+    "version": "0.4.1"
+  },
+  {
+    "name": "neovim",
+    "version": "0.2.6"
+  },
+  {
+    "name": "parso",
+    "version": "0.3.1"
+  },
+  {
+    "name": "pexpect",
+    "version": "4.6.0"
+  },
+  {
+    "name": "pickleshare",
+    "version": "0.7.5"
+  },
+  {
+    "name": "pip",
+    "version": "19.1.1"
+  },
+  {
+    "name": "pipenv",
+    "version": "2018.10.13"
+  },
+  {
+    "name": "prompt-toolkit",
+    "version": "2.0.7"
+  },
+  {
+    "name": "ptyprocess",
+    "version": "0.6.0"
+  },
+  {
+    "name": "pycodestyle",
+    "version": "2.3.1"
+  },
+  {
+    "name": "pyflakes",
+    "version": "1.6.0"
+  },
+  {
+    "name": "Pygments",
+    "version": "2.2.0"
+  },
+  {
+    "name": "setuptools",
+    "version": "41.0.1"
+  },
+  {
+    "name": "six",
+    "version": "1.11.0"
+  },
+  {
+    "name": "toml",
+    "version": "0.10.0"
+  },
+  {
+    "name": "traitlets",
+    "version": "4.3.2"
+  },
+  {
+    "name": "typed-ast",
+    "version": "1.1.0"
+  },
+  {
+    "name": "virtualenv",
+    "version": "16.0.0"
+  },
+  {
+    "name": "virtualenv-clone",
+    "version": "0.4.0"
+  },
+  {
+    "name": "wcwidth",
+    "version": "0.1.7"
+  },
+  {
+    "name": "websocket-client",
+    "version": "0.54.0"
+  },
+  {
+    "name": "wheel",
+    "version": "0.33.4"
+  }
+]

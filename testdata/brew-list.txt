@@ -1,0 +1,145 @@
+adns 1.5.1
+asciidoctor 1.5.8
+augeas 1.12.0
+autoconf 2.69
+aws-elasticbeanstalk 3.14.6
+bash 5.0.7
+bash-completion@2 2.8
+bdw-gc 8.0.0 7.6.6 7.6.8
+boost 1.69.0_2
+certbot 0.35.1
+cmake 3.12.4 3.12.3 3.11.1
+cmatrix 1.2a
+colortools 1.1
+coreutils 8.29 8.30
+cowsay 3.04
+crystal 0.27.0 0.26.1_1 0.25.1 0.24.2_1
+dialog 1.3-20190211
+elixir 1.6.5 1.7.3
+erlang 20.3.6 21.1.1
+ffmpeg 4.0.2_1 4.0
+figlet 2.2.5
+fortune 9708
+freetype 2.10.0
+fzf 0.17.5
+gcc 8.2.0
+gdb 8.1 8.2
+gdbm 1.18.1
+gettext 0.20.1
+ghostscript 9.27_1
+git 2.17.0 2.19.1
+glew 2.1.0
+glib 2.58.1 2.56.1
+gmp 6.1.2_2
+gnu-getopt 1.1.6
+gnupg 2.2.10
+gnutls 3.5.19 3.5.18
+go 1.12.7
+gotop 2.0.0
+gource 0.49
+groff 1.22.4
+grv 0.3.2
+heroku 7.0.50 7.18.3
+heroku-node 10.1.0 10.12.0
+hugo 0.55.6
+hyperfine 1.3.0 1.2.0
+icu4c 64.2
+ilmbase 2.2.1
+imagemagick 7.0.8-0 7.0.7-34 7.0.8-14 7.0.8-12
+isl 0.20
+jemalloc 5.2.0
+jpeg 9c
+jq 1.5_3
+lame 3.100
+libassuan 2.5.1
+libevent 2.1.10
+libffi 3.2.1
+libgcrypt 1.8.4
+libgpg-error 1.32
+libidn2 2.0.5 2.0.4
+libksba 1.3.5
+libmpc 1.1.0
+libogg 1.3.3
+libpng 1.6.37
+libtasn1 4.13
+libtermkey 0.22
+libtiff 4.0.10_1
+libtool 2.4.6_1
+libunistring 0.9.10
+libusb 1.0.22
+libuv 1.30.1
+libvorbis 1.3.6
+libvpx 1.7.0
+libvterm 726
+libxml2 2.9.7
+libyaml 0.2.2
+little-cms2 2.9
+llvm@5 5.0.1 5.0.2
+llvm@6 6.0.1
+luajit 2.0.5
+make 4.2.1_1
+mas 1.4.1
+mongodb 4.0.3
+mpfr 4.0.1
+msgpack 3.2.0
+ncurses 6.1
+neofetch 5.0.0
+neovim 0.3.8
+nettle 3.4
+nmap 7.70
+nnn 2.0
+no-more-secrets 0.3.3
+npth 1.6
+oniguruma 6.9.0 6.8.2
+openjpeg 2.3.0
+openssl 1.0.2s
+opus 1.2.1
+p11-kit 0.23.14 0.23.12
+pandoc 2.3.1 2.2.1
+pass 1.7.3
+pcre 8.43
+pcre2 10.32
+perl 5.28.0 5.26.2
+pinentry 1.1.0_1
+pixman 0.34.0_1
+pkg-config 0.29.2
+postgresql 11.3
+pstree 2.39
+python 3.7.0 3.7.1 3.7.3
+python@2 2.7.15_1 2.7.15
+qemu 3.0.0
+qrencode 4.0.2
+ranger 1.9.2
+rbenv 1.1.2
+readline 8.0.0_1
+redis 4.0.9 4.0.11
+ruby 2.6.3
+ruby-build 20190423
+screenfetch 3.8.0
+screenresolution 1.6
+sdl2 2.0.9_1
+sdl2_image 2.0.4
+snappy 1.1.7_1
+sqlite 3.28.0
+the_silver_searcher 2.2.0
+themekit v0.8.1 v0.8.0
+theora 1.1.1
+tig 2.4.1_1
+tmux 2.9a
+todo-txt 2.11.0
+tree 1.7.0
+unar 1.10.1
+uncrustify 0.69.0
+unibilium 2.0.0
+universal-ctags HEAD-6418097
+webp 1.0.2
+weechat 2.3
+wget 1.19.5
+wifi-password 0.1.0
+wxmac 3.0.4_1
+x264 r2854
+x265 2.9
+xvid 1.3.5
+xz 5.2.4
+youtube-dl 2019.06.21
+zsh 5.6.2_1 5.5.1
