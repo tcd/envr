@@ -1,0 +1,12 @@
+bat v0.3.0:
+    bat
+diskus v0.4.0:
+    diskus
+fd-find v7.0.0:
+    fd
+ion-shell v1.0.0-alpha (https://github.com/redox-os/ion/#73469db7):
+    ion
+mdbook v0.1.7:
+    mdbook
+wasm-gc v0.1.6:
+    wasm-gc
