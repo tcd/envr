@@ -67,20 +67,6 @@ func parseObjectOfKeys(x interface{}) []Package {
 						default:
 							break
 						}
-					case "from":
-						switch itemValue := itemValue.(type) {
-						case string:
-							p.From = itemValue
-						default:
-							break
-						}
-					case "resolved":
-						switch itemValue := itemValue.(type) {
-						case string:
-							p.Resolved = itemValue
-						default:
-							break
-						}
 					default:
 						break
 					}
